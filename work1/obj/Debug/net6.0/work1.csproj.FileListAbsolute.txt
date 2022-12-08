@@ -1,0 +1,15 @@
+/Users/ruslan/Desktop/homework/work1/bin/Debug/net6.0/work1
+/Users/ruslan/Desktop/homework/work1/bin/Debug/net6.0/work1.deps.json
+/Users/ruslan/Desktop/homework/work1/bin/Debug/net6.0/work1.runtimeconfig.json
+/Users/ruslan/Desktop/homework/work1/bin/Debug/net6.0/work1.dll
+/Users/ruslan/Desktop/homework/work1/bin/Debug/net6.0/work1.pdb
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.csproj.AssemblyReference.cache
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.AssemblyInfoInputs.cache
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.AssemblyInfo.cs
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.csproj.CoreCompileInputs.cache
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.dll
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/refint/work1.dll
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.pdb
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/work1.genruntimeconfig.cache
+/Users/ruslan/Desktop/homework/work1/obj/Debug/net6.0/ref/work1.dll
